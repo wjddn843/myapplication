@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home_assets.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home_card.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home_card2.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_home_card3.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_reward.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_setting.xml" value="0.3828125" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_trading.xml" value="0.22773880194279547" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/layout/trades_item.xml" value="0.1" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/menu/navi_menu.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/KIM JUNG WOO/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.39895833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
